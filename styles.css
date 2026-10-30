@@ -114,7 +114,7 @@ img { display: block; max-width: 100%; }
 }
 .home-hero::before { z-index: 2; opacity: .07; }
 .home-hero-video { position: absolute; top: 50%; left: 50%; z-index: 0; width: max(100vw, 177.78svh); height: max(100svh, 56.25vw); transform: translate(-50%, -50%); border: 0; pointer-events: none; }
-.home-hero-poster { position: absolute; inset: 0; z-index: 1; width: 100%; height: 100%; object-fit: cover; transition: opacity .5s ease; }
+.home-hero-poster { position: absolute; inset: 0; z-index: 1; width: 100%; height: 100%; object-fit: cover; transition: opacity 2s ease; }
 .home-hero-poster.is-hidden { opacity: 0; pointer-events: none; }
 .home-hero-content { position: relative; z-index: 3; width: min(780px, calc(100% - 40px)); padding: 0 0 12px; text-align: center; animation: arrive .9s both; }
 .home-hero .home-hero-content h1 { margin: 0; color: #fff; font-family: var(--font-heading); font-size: 36px; font-weight: 400; line-height: 1.04; }
