@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Local Gallery Crop Editor</title>
+    <link rel="stylesheet" href="/editor.css">
+    <script src="/editor.js" defer></script>
+  </head>
+  <body>
+    <main class="editor">
+      <header class="editor-header">
+        <div>
+          <p class="eyebrow">LOCAL ADMIN TOOL</p>
+          <h1>Gallery crop editor</h1>
+          <p class="intro">Drag the thumbnail, poster, and gallery photos to choose their crops.</p>
+        </div>
+        <div class="project-controls">
+          <label for="project-select">Project</label>
+          <select id="project-select" disabled></select>
+          <button id="save-button" type="button" disabled>Save positions</button>
+        </div>
+      </header>
+      <p id="status" class="status" role="status" aria-live="polite">Loading project data…</p>
+      <section id="gallery" class="gallery" aria-label="Project gallery images"></section>
+    </main>
+  </body>
+</html>

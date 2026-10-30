@@ -1,0 +1,104 @@
+{
+  "pages": [
+    {
+      "slug": "home",
+      "title": "Home",
+      "type": "home",
+      "heroImage": "content/home/hero.webp",
+      "heroVideoUrl": "https://vimeo.com/1241150628",
+      "description": "Filmmaker • Cinematographer • Explorer",
+      "intro": "I am a filmmaker and cinematographer drawn to stories that evoke emotion, spark curiosity, and stay with you long after the screen fades to black. Through short films and music videos, I explore the art of visual storytelling, blending cinematic imagery, atmosphere, and sound to create immersive experiences. My work is driven by a passion for crafting compelling narratives, finding beauty in the details, and turning simple ideas into meaningful cinematic stories."
+    },
+    {
+      "slug": "about",
+      "title": "About",
+      "type": "story",
+      "image": "content/about_me/portrait.webp",
+      "heroImage": "content/about_me/hero.webp",
+      "eyebrow": "About",
+      "headline": "Jaydeep",
+      "description": "Filmmaker and cinematographer driven by visual storytelling, atmosphere, and the art of human emotion.",
+      "aboutParagraphs": [
+        "Drawn to the power of cinema to tell stories beyond words, I see filmmaking as a way to explore human experiences, evoke emotions, and find meaning in the details often left unnoticed.",
+        "Working across short films and music videos, my approach to cinematography is rooted in mood, composition, light, and visual rhythm. I enjoy experimenting with cinematic techniques to build atmosphere, create tension, and bring stories to life through images and sound.",
+        "Whether crafting an intimate character-driven story or creating visuals that complement music, I approach every project with curiosity, intention, and a focus on the story behind each frame.",
+        "Through my films, I aim to create immersive cinematic experiences that linger with the viewer long after the story ends — inviting them to feel, reflect, and discover their own meaning within the images."
+      ]
+    },
+    {
+      "slug": "contact",
+      "title": "Contact",
+      "type": "contact",
+      "description": "Lets work together. I AM open to new projects",
+      "contactHeadline": "GOT A PROJECT?",
+      "contactSubheading": "Lets work together. I AM open to new projects",
+      "email": "jbfilms.studio@gmail.com",
+      "emailIntro": "simply email me at"
+    },
+    {
+      "slug": "portfolio",
+      "title": "Portfolio",
+      "type": "portfolio",
+      "description": "Selected films and collaborations.",
+      "portfolioIntro": [
+        "Some of the ",
+        {
+          "emphasis": ""
+        },
+        "",
+        {
+          "emphasis": ""
+        },
+        " projects I've worked on during the past years."
+      ]
+    },
+    {
+      "slug": "tether",
+      "title": "Tether",
+      "type": "project",
+      "description": "A story-film about trust, deception, and shifting loyalties."
+    },
+    {
+      "slug": "behind-the-glass",
+      "title": "Behind the Glass",
+      "type": "project",
+      "description": "A mysterious encounter at a cafe with a stranger forces a woman to confront a forgotten piece of her past."
+    },
+    {
+      "slug": "the-other-end",
+      "title": "The Other End",
+      "type": "project",
+      "description": "A man carrying a mysterious package to an extraction point realizes he is being watched and discovers that his greatest danger comes from the trusted contact on the other end of his call."
+    },
+    {
+      "slug": "still-here",
+      "title": "Still Here",
+      "type": "project",
+      "description": "Still Here is a poignant short film about friendship and memory, exploring the quiet weight of a long-ago promise that keeps someone waiting as years pass and the world changes."
+    },
+    {
+      "slug": "reverse",
+      "title": "Reverse",
+      "type": "project",
+      "description": "REVERSE captures a guilt-ridden man's inner conflict as he literally drives backward in an early morning blur of memory and reality, unable to move forward from a tragic accident that took the person he loved."
+    },
+    {
+      "slug": "swapnil-damini-prewedding",
+      "title": "Swapnil & Damini|Pre-Wedding",
+      "type": "project",
+      "description": "Swapnil and Damini are a couple who wanted to capture their love story in a unique and cinematic way. This pre-wedding music video showcases their journey together, highlighting the emotions, moments, and memories that define their relationship."
+    },
+    {
+      "slug": "the-last-ride",
+      "title": "The Last Ride",
+      "type": "project",
+      "description": "A guy decides to sell his old bike as he plans to move out of the country so he meets a buyer(a girl) soon they feel connected over the same interest and  ends up giving her something more than the bike."
+    },
+    {
+      "slug": "payback",
+      "title": "Payback",
+      "type": "project",
+      "description": "A man seeks revenge against those who wronged him, but his quest for justice leads him down a dangerous path."
+    }
+  ]
+}

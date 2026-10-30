@@ -1,0 +1,530 @@
+{
+  "projects": [
+    {
+      "slug": "tether",
+      "title": "TETHER",
+      "client": "Personal Project",
+      "category": "Short Film",
+      "about": "An intelligence operative finds himself captive in a dark, isolated room, face-to-face with a man who seems to know far more about him than he should. What begins as an interrogation soon becomes a game of secrets, deception, and shifting loyalties. As the truth slowly unfolds, the lines between trust and betrayal begin to blur. \nIn a world where information is power, knowing who to trust can be the most dangerous gamble of all. \nWho's really pulling the strings?",
+      "credits": [
+        {
+          "role": "Director",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "DoP",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Year",
+          "name": "2026"
+        },
+        {
+          "role": "Editor",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Actor",
+          "name": "Bharat & Prajwal"
+        }
+      ],
+      "categories": [
+        "short-films"
+      ],
+      "thumbnail": {
+        "source": "projects/tether/portfolio.webp",
+        "alt": "Tether",
+        "position": "50% 39.55%"
+      },
+      "media": {
+        "poster": "projects/tether/poster.webp",
+        "posterPosition": "50% 46.35%",
+        "type": "photos",
+        "images": [
+          "projects/tether/gallery/01.webp",
+          "projects/tether/gallery/02.webp",
+          "projects/tether/gallery/03.webp",
+          "projects/tether/gallery/04.webp",
+          "projects/tether/gallery/05.webp",
+          "projects/tether/gallery/06.webp",
+          "projects/tether/gallery/07.webp"
+        ],
+        "imagePositions": [
+          "50% 28.1%",
+          "50% 38.32%",
+          "50% 43.43%",
+          "50% 36.13%",
+          "50% 70.45%",
+          "50% 39.05%",
+          "50% 53.65%"
+        ]
+      },
+      "videoUrl": "",
+      "videoLink": "https://www.youtube.com/watch?v=W6JWkDpchZo"
+    },
+    {
+      "slug": "behind-the-glass",
+      "title": "Behind the Glass",
+      "client": "Personal Project",
+      "category": "Short Film",
+      "about": "A stranger. A forgotten photograph. A secret from the past. She thought she knew what happened years ago. Until someone left her a reason to remember. \nBehind the Glass is a short cinematic mystery about a woman, a stranger, and a forgotten piece of her past. \n\nDuring an ordinary morning at her favorite cafe, a woman notices a man watching her from a distance. Moments later, he disappears — leaving behind a cryptic note, an old jacket, and a photograph from a birthday she barely remembers. As she tries to understand what happened, the photograph begins to reveal a connection to someone she thought was long gone. \n\nSome memories fade. Some people disappear. But some things are left behind for a reason.",
+      "credits": [
+        {
+          "role": "Director",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "DoP",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Year",
+          "name": "2026"
+        },
+        {
+          "role": "Editor",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Actor",
+          "name": "Sneha & Bharat"
+        }
+      ],
+      "categories": [
+        "short-films"
+      ],
+      "thumbnail": {
+        "source": "projects/behind-the-glass/portfolio.webp",
+        "alt": "Behind the Glass",
+        "position": "50% 43.85%"
+      },
+      "media": {
+        "poster": "projects/behind-the-glass/poster.webp",
+        "posterPosition": "50% 37.59%",
+        "type": "photos",
+        "images": [
+          "projects/behind-the-glass/gallery/01.webp",
+          "projects/behind-the-glass/gallery/02.webp",
+          "projects/behind-the-glass/gallery/03.webp",
+          "projects/behind-the-glass/gallery/04.webp",
+          "projects/behind-the-glass/gallery/05.webp",
+          "projects/behind-the-glass/gallery/06.webp"
+        ],
+        "imagePositions": [
+          "50% 57.3%",
+          "50% 62.41%",
+          "50% 27.36%",
+          "50% 47.81%",
+          "50% 60.22%",
+          "50% 39.05%"
+        ]
+      },
+      "videoUrl": "",
+      "videoLink": "https://www.youtube.com/watch?v=-E0dOTNYDXU&t"
+    },
+    {
+      "slug": "the-other-end",
+      "title": "The Other End",
+      "client": "Personal Project",
+      "category": "Short Film",
+      "about": "A man carrying a mysterious package makes a call before heading toward an extraction point. He is told to keep moving. But somewhere along the way, he realizes he may not be as alone as he thought. Someone is watching. And sometimes, the greatest danger isn't the person following you...it's the person you trusted on the other end.",
+      "credits": [
+        {
+          "role": "Director",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "DoP",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Year",
+          "name": "2026"
+        },
+        {
+          "role": "Editor",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Actor",
+          "name": "Prajwal"
+        }
+      ],
+      "categories": [
+        "short-films"
+      ],
+      "thumbnail": {
+        "source": "projects/the-other-end/portfolio.webp",
+        "alt": "The Other End",
+        "position": "50% 56.76%"
+      },
+      "media": {
+        "poster": "projects/the-other-end/poster.webp",
+        "posterPosition": "50% 42.7%",
+        "type": "photos",
+        "images": [
+          "projects/the-other-end/gallery/01.webp",
+          "projects/the-other-end/gallery/02.webp",
+          "projects/the-other-end/gallery/03.webp",
+          "projects/the-other-end/gallery/04.webp",
+          "projects/the-other-end/gallery/05.webp",
+          "projects/the-other-end/gallery/06.webp",
+          "projects/the-other-end/gallery/07.webp",
+          "projects/the-other-end/gallery/08.webp"
+        ],
+        "imagePositions": [
+          "50% 45.62%",
+          "50% 48.54%",
+          "50% 44.89%",
+          "50% 44.89%",
+          "50% 44.89%",
+          "50% 58.76%",
+          "50% 51.46%",
+          "50% 66.07%"
+        ]
+      },
+      "videoUrl": "",
+      "videoLink": "https://www.youtube.com/watch?v=iGf2Y5tC1fs"
+    },
+    {
+      "slug": "still-here",
+      "title": "Still Here",
+      "client": "Personal Project",
+      "category": "Short Film",
+      "about": "Some promises don't need to be spoken again. Years pass. People change. Places change. But sometimes, one promise is enough to keep someone waiting. \nStill Here is a short film about friendship, time, memory, and the quiet weight of a promise made long ago. A story told through silence, moments, and the places that remember what we choose to forget.",
+      "credits": [
+        {
+          "role": "Director",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "DoP",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Year",
+          "name": "2026"
+        },
+        {
+          "role": "Editor",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Actor",
+          "name": "Prajwal"
+        }
+      ],
+      "categories": [
+        "short-films"
+      ],
+      "thumbnail": {
+        "source": "projects/still-here/portfolio.webp",
+        "alt": "Still Here",
+        "position": "50% 50%"
+      },
+      "media": {
+        "poster": "projects/still-here/poster.webp",
+        "posterPosition": "50% 61.68%",
+        "type": "photos",
+        "images": [
+          "projects/still-here/gallery/01.webp",
+          "projects/still-here/gallery/02.webp",
+          "projects/still-here/gallery/03.webp",
+          "projects/still-here/gallery/04.webp",
+          "projects/still-here/gallery/05.webp",
+          "projects/still-here/gallery/06.webp",
+          "projects/still-here/gallery/07.webp",
+          "projects/still-here/gallery/08.webp",
+          "projects/still-here/gallery/09.webp",
+          "projects/still-here/gallery/10.webp",
+          "projects/still-here/gallery/11.webp"
+        ],
+        "imagePositions": [
+          "50% 50.73%",
+          "50% 56.57%",
+          "50% 64.61%",
+          "50% 43.43%",
+          "50% 55.11%",
+          "50% 56.57%",
+          "50% 41.97%",
+          "50% 56.57%",
+          "50% 65.34%",
+          "50% 43.43%",
+          "50% 62.41%"
+        ]
+      },
+      "videoUrl": "",
+      "videoLink": "https://www.youtube.com/watch?v=OnK9gE5ySdM"
+    },
+    {
+      "slug": "reverse",
+      "title": "Reverse",
+      "client": "Personal Project",
+      "category": "Short Film",
+      "about": "A man trapped in guilt finds himself unable to move forward — in life and on the road. Haunted by the memory of a tragic accident that took someone he deeply loved, he keeps driving in reverse, as if replaying the past might change what happened. \nThrough the silence of an early morning drive and the blur between memory and reality, REVERSE captures a man’s inner conflict — the struggle between letting go and holding on. \nEvery moment behind the wheel becomes a reflection of his state of mind, where the road ahead remains distant, and the past is always closer in the mirror.",
+      "credits": [
+        {
+          "role": "Director",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "DoP",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Year",
+          "name": "2026"
+        },
+        {
+          "role": "Editor",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Actor",
+          "name": "Sandy"
+        }
+      ],
+      "categories": [
+        "short-films"
+      ],
+      "thumbnail": {
+        "source": "projects/reverse/portfolio.webp",
+        "alt": "Reverse",
+        "position": "50% 68.44%"
+      },
+      "media": {
+        "poster": "projects/reverse/poster.webp",
+        "posterPosition": "50% 6.18%",
+        "type": "photos",
+        "images": [
+          "projects/reverse/gallery/01.webp",
+          "projects/reverse/gallery/02.webp",
+          "projects/reverse/gallery/03.webp",
+          "projects/reverse/gallery/04.webp",
+          "projects/reverse/gallery/05.webp",
+          "projects/reverse/gallery/06.webp"
+        ],
+        "imagePositions": [
+          "50% 40.51%",
+          "50% 36.86%",
+          "50% 28.1%",
+          "50% 42.69%",
+          "50% 53.65%",
+          "50% 54.38%"
+        ]
+      },
+      "videoUrl": "",
+      "videoLink": "https://www.youtube.com/watch?v=2sFgPOKxwao"
+    },
+    {
+      "slug": "swapnil-damini-prewedding",
+      "title": "Swapnil & Damini|Pre-Wedding",
+      "client": "Personal Project",
+      "category": "Music Video",
+      "about": "Swapnil and Damini are a couple who wanted to capture their love story in a unique and cinematic way. This pre-wedding music video showcases their journey together, highlighting the emotions, moments, and memories that define their relationship. Through stunning visuals and heartfelt storytelling, the video captures the essence of their love and the excitement of their upcoming wedding.",
+      "credits": [
+        {
+          "role": "Director",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "DoP",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Year",
+          "name": "2019"
+        },
+        {
+          "role": "Editor",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Actor",
+          "name": "Swapnil & Damini"
+        }
+      ],
+      "categories": [
+        "music-videos"
+      ],
+      "thumbnail": {
+        "source": "projects/swapnil-damini-prewedding/portfolio.webp",
+        "alt": "Swapnil & Damini|Pre-Wedding",
+        "position": "50% 35.16%"
+      },
+      "media": {
+        "poster": "projects/swapnil-damini-prewedding/poster.webp",
+        "posterPosition": "50% 41.19%",
+        "type": "photos",
+        "images": [
+          "projects/swapnil-damini-prewedding/gallery/01.webp",
+          "projects/swapnil-damini-prewedding/gallery/02.webp",
+          "projects/swapnil-damini-prewedding/gallery/03.webp",
+          "projects/swapnil-damini-prewedding/gallery/04.webp",
+          "projects/swapnil-damini-prewedding/gallery/05.webp"
+        ],
+        "imagePositions": [
+          "50% 50.73%",
+          "50% 57.35%",
+          "50% 32.37%",
+          "50% 43.39%",
+          "50% 52.2%"
+        ]
+      },
+      "videoUrl": "",
+      "videoLink": "https://www.youtube.com/watch?v=fr6cshBQTaE"
+    },
+    {
+      "slug": "the-last-ride",
+      "title": "The Last Ride",
+      "client": "Personal Project",
+      "category": "Short Film",
+      "about": "A guy decides to sell his old bike as he plans to move out of the country so he meets a buyer(a girl) soon they feel connected over the same interest and  ends up giving her something more than the bike.",
+      "credits": [
+        {
+          "role": "Director",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "DoP",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Year",
+          "name": "2017"
+        },
+        {
+          "role": "Editor",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Actor",
+          "name": "Ankur & Rituparna"
+        }
+      ],
+      "categories": [
+        "short-films"
+      ],
+      "thumbnail": {
+        "source": "projects/the-last-ride/portfolio.webp",
+        "alt": "The Last Ride",
+        "position": "50% 33.93%"
+      },
+      "media": {
+        "poster": "projects/the-last-ride/poster.webp",
+        "posterPosition": "50% 64.56%",
+        "type": "photos",
+        "images": [
+          "projects/the-last-ride/gallery/01.webp",
+          "projects/the-last-ride/gallery/02.webp",
+          "projects/the-last-ride/gallery/03.webp",
+          "projects/the-last-ride/gallery/04.webp",
+          "projects/the-last-ride/gallery/05.webp",
+          "projects/the-last-ride/gallery/06.webp",
+          "projects/the-last-ride/gallery/07.webp",
+          "projects/the-last-ride/gallery/08.webp"
+        ],
+        "imagePositions": [
+          "50% 65.34%",
+          "50% 61%",
+          "50% 38.94%",
+          "50% 46.31%",
+          "50% 47.09%",
+          "50% 40.51%",
+          "50% 58.76%",
+          "50% 44.16%"
+        ]
+      },
+      "videoUrl": "",
+      "videoLink": "https://www.youtube.com/watch?v=A665h3EAVYw"
+    },
+    {
+      "slug": "payback",
+      "title": "Payback",
+      "client": "Personal Project",
+      "category": "Short Film",
+      "about": "Ankur, bewildered and unable to remember how he ended up alone on a riverboat after a breakup, desperately searches for his elusive ex-girlfriend, Shilpa, triggering a restless race of love, friendship, and betrayal as his friend Jit tries to find him.",
+      "credits": [
+        {
+          "role": "Director",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "DoP",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Year",
+          "name": "2012"
+        },
+        {
+          "role": "Editor",
+          "name": "Jaydeep Basu"
+        },
+        {
+          "role": "Actor",
+          "name": "Ankur Sharma, Kamalika Ghosh, Arindam Dutta, Jaydeep Basu"
+        }
+      ],
+      "categories": [
+        "short-films"
+      ],
+      "thumbnail": {
+        "source": "projects/payback/portfolio.webp",
+        "alt": "Payback",
+        "position": "50% 78.85%"
+      },
+      "media": {
+        "poster": "projects/payback/poster.webp",
+        "posterPosition": "50% 60.12%",
+        "type": "photos",
+        "images": [
+          "projects/payback/gallery/01.webp",
+          "projects/payback/gallery/02.webp",
+          "projects/payback/gallery/03.webp",
+          "projects/payback/gallery/04.webp",
+          "projects/payback/gallery/05.webp",
+          "projects/payback/gallery/06.webp",
+          "projects/payback/gallery/07.webp",
+          "projects/payback/gallery/08.webp",
+          "projects/payback/gallery/09.webp",
+          "projects/payback/gallery/10.webp",
+          "projects/payback/gallery/11.webp",
+          "projects/payback/gallery/12.webp",
+          "projects/payback/gallery/13.webp"
+        ],
+        "imagePositions": [
+          "50% 2.53%",
+          "50% 22.88%",
+          "50% 46.61%",
+          "50% 56.57%",
+          "50% 50%",
+          "50% 27.36%",
+          "50% 35.95%",
+          "50% 39.78%",
+          "50% 55.84%",
+          "50% 43.22%",
+          "50% 45.18%",
+          "50% 50.73%",
+          "50% 39.05%"
+        ]
+      },
+      "videoUrl": "",
+      "videoLink": "https://www.youtube.com/watch?v=d8WtmXCYr3U"
+    }
+  ],
+  "portfolioFilters": [
+    {
+      "slug": "all",
+      "label": "All"
+    },
+    {
+      "slug": "short-films",
+      "label": "Short Films"
+    },
+    {
+      "slug": "music-videos",
+      "label": "Music Videos"
+    }
+  ]
+}
