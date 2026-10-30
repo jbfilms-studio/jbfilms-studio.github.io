@@ -5,6 +5,7 @@
       "title": "Home",
       "type": "home",
       "heroImage": "projects/tether/poster.webp",
+      "showHeroVideo": true,
       "heroVideoUrl": "https://vimeo.com/1241150628",
       "description": "Filmmaker • Cinematographer • Explorer",
       "intro": "I am a filmmaker and cinematographer drawn to stories that evoke emotion, spark curiosity, and stay with you long after the screen fades to black. Through short films and music videos, I explore the art of visual storytelling, blending cinematic imagery, atmosphere, and sound to create immersive experiences. My work is driven by a passion for crafting compelling narratives, finding beauty in the details, and turning simple ideas into meaningful cinematic stories."

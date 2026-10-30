@@ -52,9 +52,12 @@
   const projectYouTubeId = projectVideoLink
     ? new URL(projectVideoLink).searchParams.get('v')
     : ''
-  const homeHeroVideoId =
-    page.type === 'home' ? getVimeoVideoId(page.heroVideoUrl) : null
-  if (page.type === 'home' && !homeHeroVideoId)
+  const showHomeHeroVideo =
+    page.type === 'home' && page.showHeroVideo !== false
+  const homeHeroVideoId = showHomeHeroVideo
+    ? getVimeoVideoId(page.heroVideoUrl)
+    : null
+  if (showHomeHeroVideo && !homeHeroVideoId)
     throw new Error('Home hero video URL must be a Vimeo video link')
   const header = `<header class="site-header"><nav class="nav-row" aria-label="Main navigation">
     <div class="nav-links">${navItems
@@ -78,7 +81,7 @@
   */
   const hero =
     page.type === 'home'
-      ? `<section class="hero home-hero" id="top"><iframe class="home-hero-video" src="https://player.vimeo.com/video/${homeHeroVideoId}?background=1&amp;autoplay=1&amp;muted=1&amp;loop=1&amp;autopause=0&amp;playsinline=1" title="Homepage background video" allow="autoplay; fullscreen; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" tabindex="-1"></iframe>${
+      ? `<section class="hero home-hero" id="top">${showHomeHeroVideo ? `<iframe class="home-hero-video" src="https://player.vimeo.com/video/${homeHeroVideoId}?background=1&amp;autoplay=1&amp;muted=1&amp;loop=1&amp;autopause=0&amp;playsinline=1" title="Homepage background video" allow="autoplay; fullscreen; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" tabindex="-1"></iframe>` : ''}${
           page.heroImage
             ? `<img class="home-hero-poster" src="${escapeHTML(
                 page.heroImage
